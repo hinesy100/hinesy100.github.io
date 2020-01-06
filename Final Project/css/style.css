@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Ibarra+Real+Nova:700&display=swap');
+body {
+  color: black;
+  font-family: "Ibarra Real Nova", serif;
+}
+
+h1 {
+  border: 2px solid black;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-weight: normal;
+  font-style: italic;
+  font-size: 60px;
+  padding: 10px 0;
+  margin-bottom: 30px;
+}
+
+img {
+  margin: auto;
+}
